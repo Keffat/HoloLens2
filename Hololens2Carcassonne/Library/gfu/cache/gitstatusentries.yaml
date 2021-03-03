@@ -1,0 +1,3353 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-03-03T15:54:58.132+01:00
+  initializedAtString: 2021-03-03T15:45:03.788+01:00
+  entries:
+  - path: Hololens2Carcassonne\Assets\ChangeColorScript.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\ChangeColorScript.cs
+    projectPath: Assets\ChangeColorScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\ChangeColorScript.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\ChangeColorScript.cs.meta
+    projectPath: Assets\ChangeColorScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Materials.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Materials.meta
+    projectPath: Assets\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Materials\PileMaterial.mat
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Materials\PileMaterial.mat
+    projectPath: Assets\Materials\PileMaterial.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Materials\PileMaterial.mat.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Materials\PileMaterial.mat.meta
+    projectPath: Assets\Materials\PileMaterial.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Materials\TableMaterial.mat
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Materials\TableMaterial.mat
+    projectPath: Assets\Materials\TableMaterial.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Materials\TableMaterial.mat.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Materials\TableMaterial.mat.meta
+    projectPath: Assets\Materials\TableMaterial.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\MixedRealityToolkit.Generated\ProjectPreferences.asset
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\MixedRealityToolkit.Generated\ProjectPreferences.asset
+    projectPath: Assets\MixedRealityToolkit.Generated\ProjectPreferences.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne.meta
+    projectPath: Assets\OldCarcassonne.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Meshes.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Meshes.meta
+    projectPath: Assets\OldCarcassonne\OC_Meshes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Meshes\Meeple 1.obj
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Meshes\Meeple
+      1.obj
+    projectPath: Assets\OldCarcassonne\OC_Meshes\Meeple 1.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Meshes\Meeple 1.obj.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Meshes\Meeple
+      1.obj.meta
+    projectPath: Assets\OldCarcassonne\OC_Meshes\Meeple 1.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Meshes\Meeple.prefab
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Meshes\Meeple.prefab
+    projectPath: Assets\OldCarcassonne\OC_Meshes\Meeple.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Meshes\Meeple.prefab.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Meshes\Meeple.prefab.meta
+    projectPath: Assets\OldCarcassonne\OC_Meshes\Meeple.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Meshes\TileTemplate.obj
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Meshes\TileTemplate.obj
+    projectPath: Assets\OldCarcassonne\OC_Meshes\TileTemplate.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Meshes\TileTemplate.obj.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Meshes\TileTemplate.obj.meta
+    projectPath: Assets\OldCarcassonne\OC_Meshes\TileTemplate.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Meshes\TileTemplate.prefab
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Meshes\TileTemplate.prefab
+    projectPath: Assets\OldCarcassonne\OC_Meshes\TileTemplate.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Meshes\TileTemplate.prefab.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Meshes\TileTemplate.prefab.meta
+    projectPath: Assets\OldCarcassonne\OC_Meshes\TileTemplate.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts.meta
+    projectPath: Assets\OldCarcassonne\OC_Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\Borderscript.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\Borderscript.cs
+    projectPath: Assets\OldCarcassonne\OC_Scripts\Borderscript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\Borderscript.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\Borderscript.cs.meta
+    projectPath: Assets\OldCarcassonne\OC_Scripts\Borderscript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\CardSlideScript.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\CardSlideScript.cs
+    projectPath: Assets\OldCarcassonne\OC_Scripts\CardSlideScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\CardSlideScript.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\CardSlideScript.cs.meta
+    projectPath: Assets\OldCarcassonne\OC_Scripts\CardSlideScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\ErrorPlaneScript.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\ErrorPlaneScript.cs
+    projectPath: Assets\OldCarcassonne\OC_Scripts\ErrorPlaneScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\ErrorPlaneScript.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\ErrorPlaneScript.cs.meta
+    projectPath: Assets\OldCarcassonne\OC_Scripts\ErrorPlaneScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\GameControllerScript.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\GameControllerScript.cs
+    projectPath: Assets\OldCarcassonne\OC_Scripts\GameControllerScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\GameControllerScript.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\GameControllerScript.cs.meta
+    projectPath: Assets\OldCarcassonne\OC_Scripts\GameControllerScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\MeepleScript.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\MeepleScript.cs
+    projectPath: Assets\OldCarcassonne\OC_Scripts\MeepleScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\MeepleScript.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\MeepleScript.cs.meta
+    projectPath: Assets\OldCarcassonne\OC_Scripts\MeepleScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\MusicScript.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\MusicScript.cs
+    projectPath: Assets\OldCarcassonne\OC_Scripts\MusicScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\MusicScript.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\MusicScript.cs.meta
+    projectPath: Assets\OldCarcassonne\OC_Scripts\MusicScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\PlacedTilesScript.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\PlacedTilesScript.cs
+    projectPath: Assets\OldCarcassonne\OC_Scripts\PlacedTilesScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\PlacedTilesScript.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\PlacedTilesScript.cs.meta
+    projectPath: Assets\OldCarcassonne\OC_Scripts\PlacedTilesScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\PlayerScript.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\PlayerScript.cs
+    projectPath: Assets\OldCarcassonne\OC_Scripts\PlayerScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\PlayerScript.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\PlayerScript.cs.meta
+    projectPath: Assets\OldCarcassonne\OC_Scripts\PlayerScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\PointScript.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\PointScript.cs
+    projectPath: Assets\OldCarcassonne\OC_Scripts\PointScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\PointScript.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\PointScript.cs.meta
+    projectPath: Assets\OldCarcassonne\OC_Scripts\PointScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\StackScript.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\StackScript.cs
+    projectPath: Assets\OldCarcassonne\OC_Scripts\StackScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\StackScript.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\StackScript.cs.meta
+    projectPath: Assets\OldCarcassonne\OC_Scripts\StackScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\StartGameScript.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\StartGameScript.cs
+    projectPath: Assets\OldCarcassonne\OC_Scripts\StartGameScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\StartGameScript.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\StartGameScript.cs.meta
+    projectPath: Assets\OldCarcassonne\OC_Scripts\StartGameScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\StartUIscript.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\StartUIscript.cs
+    projectPath: Assets\OldCarcassonne\OC_Scripts\StartUIscript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\StartUIscript.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\StartUIscript.cs.meta
+    projectPath: Assets\OldCarcassonne\OC_Scripts\StartUIscript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\TileScript.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\TileScript.cs
+    projectPath: Assets\OldCarcassonne\OC_Scripts\TileScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\TileScript.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\TileScript.cs.meta
+    projectPath: Assets\OldCarcassonne\OC_Scripts\TileScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\TurnScript.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\TurnScript.cs
+    projectPath: Assets\OldCarcassonne\OC_Scripts\TurnScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\TurnScript.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\TurnScript.cs.meta
+    projectPath: Assets\OldCarcassonne\OC_Scripts\TurnScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\UndoButtonScript.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\UndoButtonScript.cs
+    projectPath: Assets\OldCarcassonne\OC_Scripts\UndoButtonScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\UndoButtonScript.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Scripts\UndoButtonScript.cs.meta
+    projectPath: Assets\OldCarcassonne\OC_Scripts\UndoButtonScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\1.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\1.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\1.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\1.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\10.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\10.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\10.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\10.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\10.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\10.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\11.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\11.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\11.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\11.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\11.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\11.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\12.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\12.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\12.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\12.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\12.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\12.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\13.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\13.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\13.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\13.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\13.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\13.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\14.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\14.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\14.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\14.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\14.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\14.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\15.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\15.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\15.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\15.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\15.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\15.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\16.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\16.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\16.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\16.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\16.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\16.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\17.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\17.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\17.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\17.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\17.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\17.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\18.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\18.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\18.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\18.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\18.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\18.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\19.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\19.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\19.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\19.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\19.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\19.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\2.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\2.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\2.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\2.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\20.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\20.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\20.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\20.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\20.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\20.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\21.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\21.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\21.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\21.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\21.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\21.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\22.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\22.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\22.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\22.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\22.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\22.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\23.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\23.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\23.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\23.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\23.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\23.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\24.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\24.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\24.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\24.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\24.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\24.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\25.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\25.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\25.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\25.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\25.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\25.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\26.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\26.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\26.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\26.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\26.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\26.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\27.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\27.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\27.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\27.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\27.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\27.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\28.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\28.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\28.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\28.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\28.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\28.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\29.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\29.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\29.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\29.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\29.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\29.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\3.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\3.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\3.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\3.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\30.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\30.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\30.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\30.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\30.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\30.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\31.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\31.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\31.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\31.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\31.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\31.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\32.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\32.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\32.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\32.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\32.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\32.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\33.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\33.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\33.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\33.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\33.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\33.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\4.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\4.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\4.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\4.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\4.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\5.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\5.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\5.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\5.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\5.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\5.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\6.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\6.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\6.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\6.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\6.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\6.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\7.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\7.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\7.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\7.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\7.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\7.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\8.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\8.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\8.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\8.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\8.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\8.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\9.png
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\9.png
+    projectPath: Assets\OldCarcassonne\OC_Textures\9.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\9.png.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\OldCarcassonne\OC_Textures\9.png.meta
+    projectPath: Assets\OldCarcassonne\OC_Textures\9.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Prefabs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Prefabs.meta
+    projectPath: Assets\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Scenes\SampleScene.unity
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Assets\Scripts.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Scripts.meta
+    projectPath: Assets\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro.meta
+    projectPath: Assets\TextMesh Pro.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Prefabs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Prefabs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Prefabs\Text
+      Popup.prefab
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Prefabs\Text
+      Popup.prefab
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs\Text Popup.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Prefabs\Text
+      Popup.prefab.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Prefabs\Text
+      Popup.prefab.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs\Text Popup.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\DropdownSample.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\DropdownSample.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\DropdownSample.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\DropdownSample.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\DropdownSample.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\DropdownSample.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Fonts.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Fonts.meta
+    projectPath: Assets\TextMesh Pro\Fonts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Resources.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Resources.meta
+    projectPath: Assets\TextMesh Pro\Resources.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Resources\Fonts
+      & Materials.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF - Fallback.asset
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Resources\Fonts
+      & Materials\LiberationSans SDF - Fallback.asset
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Fallback.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF - Fallback.asset.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Resources\Fonts
+      & Materials\LiberationSans SDF - Fallback.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Fallback.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF.asset
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Resources\Fonts
+      & Materials\LiberationSans SDF.asset
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF.asset.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Resources\Fonts
+      & Materials\LiberationSans SDF.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Shaders.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Shaders.meta
+    projectPath: Assets\TextMesh Pro\Shaders.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Assets\Textures.meta
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Assets\Textures.meta
+    projectPath: Assets\Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\APIUpdater\project-dependencies.graph
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ArtifactDB
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\Artifacts\00\00d72b92c573bb1de14f1ad403ed9f7f
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\00\00d72b92c573bb1de14f1ad403ed9f7f
+    projectPath: Library\Artifacts\00\00d72b92c573bb1de14f1ad403ed9f7f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\01\0152d1711547c92f4ca5c7d0e31bdc3f
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\01\0152d1711547c92f4ca5c7d0e31bdc3f
+    projectPath: Library\Artifacts\01\0152d1711547c92f4ca5c7d0e31bdc3f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\01\01ccce9af2605aa03ab2fc2d3bf969b5
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\01\01ccce9af2605aa03ab2fc2d3bf969b5
+    projectPath: Library\Artifacts\01\01ccce9af2605aa03ab2fc2d3bf969b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\03\031fcc4165c2dd7b9f19eb970c73a8a3
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\03\031fcc4165c2dd7b9f19eb970c73a8a3
+    projectPath: Library\Artifacts\03\031fcc4165c2dd7b9f19eb970c73a8a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\04\04f4cebd98b203c93b15e0db522ce0c7
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\04\04f4cebd98b203c93b15e0db522ce0c7
+    projectPath: Library\Artifacts\04\04f4cebd98b203c93b15e0db522ce0c7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\05\051d6e15bec685aad8a9ad797cb99735
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\05\051d6e15bec685aad8a9ad797cb99735
+    projectPath: Library\Artifacts\05\051d6e15bec685aad8a9ad797cb99735
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\05\05338288a428c997779d4d03b4e74e48
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\05\05338288a428c997779d4d03b4e74e48
+    projectPath: Library\Artifacts\05\05338288a428c997779d4d03b4e74e48
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\05\05813a24f9d127ca6ea3892fee3a41e2
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\05\05813a24f9d127ca6ea3892fee3a41e2
+    projectPath: Library\Artifacts\05\05813a24f9d127ca6ea3892fee3a41e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\05\05bf56824b75b22b94d3f597635f2b36
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\05\05bf56824b75b22b94d3f597635f2b36
+    projectPath: Library\Artifacts\05\05bf56824b75b22b94d3f597635f2b36
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\05\05e062b975193b2b68c0feda08fb81f2
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\05\05e062b975193b2b68c0feda08fb81f2
+    projectPath: Library\Artifacts\05\05e062b975193b2b68c0feda08fb81f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\08\08a9b4ea30685ee3bde4c2a60a18eb9a
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\08\08a9b4ea30685ee3bde4c2a60a18eb9a
+    projectPath: Library\Artifacts\08\08a9b4ea30685ee3bde4c2a60a18eb9a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\0c\0c3698105f41c4794a3f2d27aa63f555
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\0c\0c3698105f41c4794a3f2d27aa63f555
+    projectPath: Library\Artifacts\0c\0c3698105f41c4794a3f2d27aa63f555
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\0d\0d30801b3077f3904625df2090d91644
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\0d\0d30801b3077f3904625df2090d91644
+    projectPath: Library\Artifacts\0d\0d30801b3077f3904625df2090d91644
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\0d\0d993dc58990967c37c32dca472e33fe
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\0d\0d993dc58990967c37c32dca472e33fe
+    projectPath: Library\Artifacts\0d\0d993dc58990967c37c32dca472e33fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\0d\0ddb37c8134b0e4cc5f05c6ec7e95f8e
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\0d\0ddb37c8134b0e4cc5f05c6ec7e95f8e
+    projectPath: Library\Artifacts\0d\0ddb37c8134b0e4cc5f05c6ec7e95f8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\10\10044de9ddfab80a9d6bb24c3e1df45f
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\10\10044de9ddfab80a9d6bb24c3e1df45f
+    projectPath: Library\Artifacts\10\10044de9ddfab80a9d6bb24c3e1df45f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\11\1169ec65e85b3d433842d443a386ab52
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\11\1169ec65e85b3d433842d443a386ab52
+    projectPath: Library\Artifacts\11\1169ec65e85b3d433842d443a386ab52
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\16\161c5844ba832fbbcf12e95500376f27
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\16\161c5844ba832fbbcf12e95500376f27
+    projectPath: Library\Artifacts\16\161c5844ba832fbbcf12e95500376f27
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\17\172452f90bf2730fa34ecc0d8577095e
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\17\172452f90bf2730fa34ecc0d8577095e
+    projectPath: Library\Artifacts\17\172452f90bf2730fa34ecc0d8577095e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\1a\1a6cb8b2397d5bedb6a461dbc6804528
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\1a\1a6cb8b2397d5bedb6a461dbc6804528
+    projectPath: Library\Artifacts\1a\1a6cb8b2397d5bedb6a461dbc6804528
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\1b\1bc0d18cb5fdc589e8348bbb1f10fe4d
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\1b\1bc0d18cb5fdc589e8348bbb1f10fe4d
+    projectPath: Library\Artifacts\1b\1bc0d18cb5fdc589e8348bbb1f10fe4d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\1c\1c60f0f0f4d993c63b3d99790ebbb515
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\1c\1c60f0f0f4d993c63b3d99790ebbb515
+    projectPath: Library\Artifacts\1c\1c60f0f0f4d993c63b3d99790ebbb515
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\1c\1c91a2cbff4b55d3d53f9bc8f507c995
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\1c\1c91a2cbff4b55d3d53f9bc8f507c995
+    projectPath: Library\Artifacts\1c\1c91a2cbff4b55d3d53f9bc8f507c995
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\1d\1de698da8ddef0534e650432760d9e53
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\1d\1de698da8ddef0534e650432760d9e53
+    projectPath: Library\Artifacts\1d\1de698da8ddef0534e650432760d9e53
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\20\20e12c08b8a376449d4d3c0e36a6d43f
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\20\20e12c08b8a376449d4d3c0e36a6d43f
+    projectPath: Library\Artifacts\20\20e12c08b8a376449d4d3c0e36a6d43f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\21\21d807635dd0dadbc3ee63d1d8993297
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\21\21d807635dd0dadbc3ee63d1d8993297
+    projectPath: Library\Artifacts\21\21d807635dd0dadbc3ee63d1d8993297
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\23\236288889bebc307ac68e675a5c41a39
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\23\236288889bebc307ac68e675a5c41a39
+    projectPath: Library\Artifacts\23\236288889bebc307ac68e675a5c41a39
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\24\24240e9e4f37deeeba0ae5b802c87088
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\24\24240e9e4f37deeeba0ae5b802c87088
+    projectPath: Library\Artifacts\24\24240e9e4f37deeeba0ae5b802c87088
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\24\248a4bf1a7c672fb7824624c72e4084e
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\24\248a4bf1a7c672fb7824624c72e4084e
+    projectPath: Library\Artifacts\24\248a4bf1a7c672fb7824624c72e4084e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\25\256f53c630d7d4c29f8139e1bb5b6aaf
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\25\256f53c630d7d4c29f8139e1bb5b6aaf
+    projectPath: Library\Artifacts\25\256f53c630d7d4c29f8139e1bb5b6aaf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\27\27757b80e99f7725c7daa91f2c9d6e15
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\27\27757b80e99f7725c7daa91f2c9d6e15
+    projectPath: Library\Artifacts\27\27757b80e99f7725c7daa91f2c9d6e15
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\2a\2a484931a0c1bfc1c26bfbccf95941e6
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\2a\2a484931a0c1bfc1c26bfbccf95941e6
+    projectPath: Library\Artifacts\2a\2a484931a0c1bfc1c26bfbccf95941e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\2b\2b9fdfe6efcb6e0f0a8dee18f09cf7d0
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\2b\2b9fdfe6efcb6e0f0a8dee18f09cf7d0
+    projectPath: Library\Artifacts\2b\2b9fdfe6efcb6e0f0a8dee18f09cf7d0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\2b\2bab2e5c31be940556430e72d0c9c8e7
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\2b\2bab2e5c31be940556430e72d0c9c8e7
+    projectPath: Library\Artifacts\2b\2bab2e5c31be940556430e72d0c9c8e7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\2b\2bc17bac6ebe6e4c6da73ff151022fec
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\2b\2bc17bac6ebe6e4c6da73ff151022fec
+    projectPath: Library\Artifacts\2b\2bc17bac6ebe6e4c6da73ff151022fec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\2d\2d78e7a8e7205795ceb1d0d52298266a
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\2d\2d78e7a8e7205795ceb1d0d52298266a
+    projectPath: Library\Artifacts\2d\2d78e7a8e7205795ceb1d0d52298266a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\2d\2dd96ce3ea12cc006afe9afbbf02090c
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\2d\2dd96ce3ea12cc006afe9afbbf02090c
+    projectPath: Library\Artifacts\2d\2dd96ce3ea12cc006afe9afbbf02090c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\2d\2de9595f6dc3fcd8525c52cdaf96a8b5
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\2d\2de9595f6dc3fcd8525c52cdaf96a8b5
+    projectPath: Library\Artifacts\2d\2de9595f6dc3fcd8525c52cdaf96a8b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\2e\2e09765034e1c1603ca2defe186bfdee
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\2e\2e09765034e1c1603ca2defe186bfdee
+    projectPath: Library\Artifacts\2e\2e09765034e1c1603ca2defe186bfdee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\32\32dba576bff33bd3715c40b3a2ab1b56
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\32\32dba576bff33bd3715c40b3a2ab1b56
+    projectPath: Library\Artifacts\32\32dba576bff33bd3715c40b3a2ab1b56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\33\331460dcf48871eb423abc9a5f2d5675
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\33\331460dcf48871eb423abc9a5f2d5675
+    projectPath: Library\Artifacts\33\331460dcf48871eb423abc9a5f2d5675
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\33\33ad27f512e2e8da04440a5e7f3ce924
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\33\33ad27f512e2e8da04440a5e7f3ce924
+    projectPath: Library\Artifacts\33\33ad27f512e2e8da04440a5e7f3ce924
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\34\349a23fbf476f16bb3d2dd6e5264706d
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\34\349a23fbf476f16bb3d2dd6e5264706d
+    projectPath: Library\Artifacts\34\349a23fbf476f16bb3d2dd6e5264706d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\34\34dacaf1b1ce973c5763ab0de764c33d
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\34\34dacaf1b1ce973c5763ab0de764c33d
+    projectPath: Library\Artifacts\34\34dacaf1b1ce973c5763ab0de764c33d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\34\34dbc1a48b7fc61132ee94ebca7580f7
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\34\34dbc1a48b7fc61132ee94ebca7580f7
+    projectPath: Library\Artifacts\34\34dbc1a48b7fc61132ee94ebca7580f7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\36\3688814b708cdc1e98f19f0c65036809
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\36\3688814b708cdc1e98f19f0c65036809
+    projectPath: Library\Artifacts\36\3688814b708cdc1e98f19f0c65036809
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\37\37042f227a16b6bbb75d2171b609d802
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\37\37042f227a16b6bbb75d2171b609d802
+    projectPath: Library\Artifacts\37\37042f227a16b6bbb75d2171b609d802
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\38\38c7cdd05cc37892ea96e8eae6ef1c2b
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\38\38c7cdd05cc37892ea96e8eae6ef1c2b
+    projectPath: Library\Artifacts\38\38c7cdd05cc37892ea96e8eae6ef1c2b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\39\39d50bb5191d9236ab6a1946926fcbcb
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\39\39d50bb5191d9236ab6a1946926fcbcb
+    projectPath: Library\Artifacts\39\39d50bb5191d9236ab6a1946926fcbcb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\3b\3b3ec7762b0292b361b42ece9c4ff2ce
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\3b\3b3ec7762b0292b361b42ece9c4ff2ce
+    projectPath: Library\Artifacts\3b\3b3ec7762b0292b361b42ece9c4ff2ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\3b\3bc179e674a803cae8edbaba99dad647
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\3b\3bc179e674a803cae8edbaba99dad647
+    projectPath: Library\Artifacts\3b\3bc179e674a803cae8edbaba99dad647
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\3c\3ca84b80134d17d2735a9a51b0a23fcc
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\3c\3ca84b80134d17d2735a9a51b0a23fcc
+    projectPath: Library\Artifacts\3c\3ca84b80134d17d2735a9a51b0a23fcc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\3c\3ce2969d311162b63a869ae315d10d14
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\3c\3ce2969d311162b63a869ae315d10d14
+    projectPath: Library\Artifacts\3c\3ce2969d311162b63a869ae315d10d14
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\3d\3d34d5104b20d2b53b8b62871d665d91
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\3d\3d34d5104b20d2b53b8b62871d665d91
+    projectPath: Library\Artifacts\3d\3d34d5104b20d2b53b8b62871d665d91
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\3d\3d6c484096a729254c523aa894e12300
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\3d\3d6c484096a729254c523aa894e12300
+    projectPath: Library\Artifacts\3d\3d6c484096a729254c523aa894e12300
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\3d\3d777c0914b94b39927a13ddd4117d70
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\3d\3d777c0914b94b39927a13ddd4117d70
+    projectPath: Library\Artifacts\3d\3d777c0914b94b39927a13ddd4117d70
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\3d\3da14609a656ee4230bea2e3fccb2abc
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\3d\3da14609a656ee4230bea2e3fccb2abc
+    projectPath: Library\Artifacts\3d\3da14609a656ee4230bea2e3fccb2abc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\3e\3ef9d3ca1debf5782de16ed9a1b69b03
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\3e\3ef9d3ca1debf5782de16ed9a1b69b03
+    projectPath: Library\Artifacts\3e\3ef9d3ca1debf5782de16ed9a1b69b03
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\40\400b5d62642b3acc9031d4adb223c2e7
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\40\400b5d62642b3acc9031d4adb223c2e7
+    projectPath: Library\Artifacts\40\400b5d62642b3acc9031d4adb223c2e7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\40\40d6faa2e208e36cfdd7b3bc5ac819a7
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\40\40d6faa2e208e36cfdd7b3bc5ac819a7
+    projectPath: Library\Artifacts\40\40d6faa2e208e36cfdd7b3bc5ac819a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\42\42c5f33871b9eb100a2e221dc711b697
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\42\42c5f33871b9eb100a2e221dc711b697
+    projectPath: Library\Artifacts\42\42c5f33871b9eb100a2e221dc711b697
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\43\43b4452a6a6d4d30aea9d62e2572ba5c
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\43\43b4452a6a6d4d30aea9d62e2572ba5c
+    projectPath: Library\Artifacts\43\43b4452a6a6d4d30aea9d62e2572ba5c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\44\44dea2d3d1d98abb775d398ab3df354a
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\44\44dea2d3d1d98abb775d398ab3df354a
+    projectPath: Library\Artifacts\44\44dea2d3d1d98abb775d398ab3df354a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\45\45f46d88795d68916b31067d2d68ad69
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\45\45f46d88795d68916b31067d2d68ad69
+    projectPath: Library\Artifacts\45\45f46d88795d68916b31067d2d68ad69
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\46\4603f67433c2ece417f4d3717c288b37
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\46\4603f67433c2ece417f4d3717c288b37
+    projectPath: Library\Artifacts\46\4603f67433c2ece417f4d3717c288b37
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\47\475f4f3fb2cc611a43645a3c853723c8
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\47\475f4f3fb2cc611a43645a3c853723c8
+    projectPath: Library\Artifacts\47\475f4f3fb2cc611a43645a3c853723c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\48\48e7bdf0fce31ad4b8ed560f130f444b
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\48\48e7bdf0fce31ad4b8ed560f130f444b
+    projectPath: Library\Artifacts\48\48e7bdf0fce31ad4b8ed560f130f444b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\4a\4a29c67cfe2898d9b9d059a397f261f6
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\4a\4a29c67cfe2898d9b9d059a397f261f6
+    projectPath: Library\Artifacts\4a\4a29c67cfe2898d9b9d059a397f261f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\4b\4ba977896dbdee6564be2f1afc197dc0
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\4b\4ba977896dbdee6564be2f1afc197dc0
+    projectPath: Library\Artifacts\4b\4ba977896dbdee6564be2f1afc197dc0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\4b\4be13b5e54069ef69a804aac0117d404
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\4b\4be13b5e54069ef69a804aac0117d404
+    projectPath: Library\Artifacts\4b\4be13b5e54069ef69a804aac0117d404
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\4c\4cbf744ad2317569f3a488d368d25dc4
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\4c\4cbf744ad2317569f3a488d368d25dc4
+    projectPath: Library\Artifacts\4c\4cbf744ad2317569f3a488d368d25dc4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\4d\4d4e435f54257466601e917960a3ce0f
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\4d\4d4e435f54257466601e917960a3ce0f
+    projectPath: Library\Artifacts\4d\4d4e435f54257466601e917960a3ce0f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\55\5528d7629dd6850a971c7b61ee779e94
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\55\5528d7629dd6850a971c7b61ee779e94
+    projectPath: Library\Artifacts\55\5528d7629dd6850a971c7b61ee779e94
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\57\57f78c93765c159a9621bf7606ff5b48
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\57\57f78c93765c159a9621bf7606ff5b48
+    projectPath: Library\Artifacts\57\57f78c93765c159a9621bf7606ff5b48
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\58\5826a934a8f1e76e958c6a5637357056
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\58\5826a934a8f1e76e958c6a5637357056
+    projectPath: Library\Artifacts\58\5826a934a8f1e76e958c6a5637357056
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\5e\5eb0d7c2f5023900a5c719a86acdc479
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\5e\5eb0d7c2f5023900a5c719a86acdc479
+    projectPath: Library\Artifacts\5e\5eb0d7c2f5023900a5c719a86acdc479
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\5f\5f0c9d4254d52d87937ceb5770987199
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\5f\5f0c9d4254d52d87937ceb5770987199
+    projectPath: Library\Artifacts\5f\5f0c9d4254d52d87937ceb5770987199
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\5f\5ff846ceff6bead4ceb6d4b703c539e0
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\5f\5ff846ceff6bead4ceb6d4b703c539e0
+    projectPath: Library\Artifacts\5f\5ff846ceff6bead4ceb6d4b703c539e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\60\600c5b2817beb23754282df4e4368213
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\60\600c5b2817beb23754282df4e4368213
+    projectPath: Library\Artifacts\60\600c5b2817beb23754282df4e4368213
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\60\6045113b264e1ba9f9421d195615c202
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\60\6045113b264e1ba9f9421d195615c202
+    projectPath: Library\Artifacts\60\6045113b264e1ba9f9421d195615c202
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\60\60a3e88c1551aee0f0594f1c362ca153
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\60\60a3e88c1551aee0f0594f1c362ca153
+    projectPath: Library\Artifacts\60\60a3e88c1551aee0f0594f1c362ca153
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\60\60d0e747110e75bc4f1efa067f55548d
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\60\60d0e747110e75bc4f1efa067f55548d
+    projectPath: Library\Artifacts\60\60d0e747110e75bc4f1efa067f55548d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\62\62133fbed783a19e1afc977bd6308a77
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\62\62133fbed783a19e1afc977bd6308a77
+    projectPath: Library\Artifacts\62\62133fbed783a19e1afc977bd6308a77
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\63\634c5a609bcd242feae4ae533a90c20d
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\63\634c5a609bcd242feae4ae533a90c20d
+    projectPath: Library\Artifacts\63\634c5a609bcd242feae4ae533a90c20d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\63\636262f1435224b5d9c93343021ab38e
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\63\636262f1435224b5d9c93343021ab38e
+    projectPath: Library\Artifacts\63\636262f1435224b5d9c93343021ab38e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\64\642118a3a2085dfc6459263b111fd33f
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\64\642118a3a2085dfc6459263b111fd33f
+    projectPath: Library\Artifacts\64\642118a3a2085dfc6459263b111fd33f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\65\65cda3a9db79dd89287fa32af33f0b0b
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\65\65cda3a9db79dd89287fa32af33f0b0b
+    projectPath: Library\Artifacts\65\65cda3a9db79dd89287fa32af33f0b0b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\65\65f561f1b529dc51f8451ebc6a05b890
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\65\65f561f1b529dc51f8451ebc6a05b890
+    projectPath: Library\Artifacts\65\65f561f1b529dc51f8451ebc6a05b890
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\66\666d61e84eaef6ac0e499d017dc278de
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\66\666d61e84eaef6ac0e499d017dc278de
+    projectPath: Library\Artifacts\66\666d61e84eaef6ac0e499d017dc278de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\67\670835dd2caaff61028e9ae450ab8efa
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\67\670835dd2caaff61028e9ae450ab8efa
+    projectPath: Library\Artifacts\67\670835dd2caaff61028e9ae450ab8efa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\68\6838433fa6add6be2cf75e68c6c87355
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\68\6838433fa6add6be2cf75e68c6c87355
+    projectPath: Library\Artifacts\68\6838433fa6add6be2cf75e68c6c87355
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\6a\6a71bcedb0706289837c62d14629fbb5
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\6a\6a71bcedb0706289837c62d14629fbb5
+    projectPath: Library\Artifacts\6a\6a71bcedb0706289837c62d14629fbb5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\6b\6b9dae07aa34315a884390c94a335f6d
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\6b\6b9dae07aa34315a884390c94a335f6d
+    projectPath: Library\Artifacts\6b\6b9dae07aa34315a884390c94a335f6d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\6d\6d5a737d30b82c5c58170cb8b8a3d148
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\6d\6d5a737d30b82c5c58170cb8b8a3d148
+    projectPath: Library\Artifacts\6d\6d5a737d30b82c5c58170cb8b8a3d148
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\6d\6de74e955fea0bda0701346b147d5dbe
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\6d\6de74e955fea0bda0701346b147d5dbe
+    projectPath: Library\Artifacts\6d\6de74e955fea0bda0701346b147d5dbe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\6e\6e666cf33e304068cbeda70cb47b0465
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\6e\6e666cf33e304068cbeda70cb47b0465
+    projectPath: Library\Artifacts\6e\6e666cf33e304068cbeda70cb47b0465
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\70\7036a9b593be5fd18e28b80a64bae335
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\70\7036a9b593be5fd18e28b80a64bae335
+    projectPath: Library\Artifacts\70\7036a9b593be5fd18e28b80a64bae335
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\72\7249ea664018f94b02b7208256c07301
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\72\7249ea664018f94b02b7208256c07301
+    projectPath: Library\Artifacts\72\7249ea664018f94b02b7208256c07301
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\73\73cd5dae6421660bcb5a02ca8fbb9f2d
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\73\73cd5dae6421660bcb5a02ca8fbb9f2d
+    projectPath: Library\Artifacts\73\73cd5dae6421660bcb5a02ca8fbb9f2d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\79\794037735ae8cf31ab79c60c2e421cac
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\79\794037735ae8cf31ab79c60c2e421cac
+    projectPath: Library\Artifacts\79\794037735ae8cf31ab79c60c2e421cac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\7a\7aad838b0300577229dccef7af723123
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\7a\7aad838b0300577229dccef7af723123
+    projectPath: Library\Artifacts\7a\7aad838b0300577229dccef7af723123
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\7b\7b1f462e6bf6eda147c4264705aa2595
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\7b\7b1f462e6bf6eda147c4264705aa2595
+    projectPath: Library\Artifacts\7b\7b1f462e6bf6eda147c4264705aa2595
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\7b\7b61b9c7679e80f7f15f849d7ea4a190
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\7b\7b61b9c7679e80f7f15f849d7ea4a190
+    projectPath: Library\Artifacts\7b\7b61b9c7679e80f7f15f849d7ea4a190
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\7e\7ed04cb8855e3ff36d1d2792b69beb9c
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\7e\7ed04cb8855e3ff36d1d2792b69beb9c
+    projectPath: Library\Artifacts\7e\7ed04cb8855e3ff36d1d2792b69beb9c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\7f\7f1e5f17767f8fa500f71c8755153517
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\7f\7f1e5f17767f8fa500f71c8755153517
+    projectPath: Library\Artifacts\7f\7f1e5f17767f8fa500f71c8755153517
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\7f\7f79ebd0621697f24c6e7a21a4340635
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\7f\7f79ebd0621697f24c6e7a21a4340635
+    projectPath: Library\Artifacts\7f\7f79ebd0621697f24c6e7a21a4340635
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\80\807afb61a2434d4ff8a3917a8304c0e9
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\80\807afb61a2434d4ff8a3917a8304c0e9
+    projectPath: Library\Artifacts\80\807afb61a2434d4ff8a3917a8304c0e9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\80\80a69998fd8d578b6287410fa0a004ac
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\80\80a69998fd8d578b6287410fa0a004ac
+    projectPath: Library\Artifacts\80\80a69998fd8d578b6287410fa0a004ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\81\8128cd8c9ff54b718461cda04cbadd86
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\81\8128cd8c9ff54b718461cda04cbadd86
+    projectPath: Library\Artifacts\81\8128cd8c9ff54b718461cda04cbadd86
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\85\8521a2809586874c48cf4d191e0dfb6e
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\85\8521a2809586874c48cf4d191e0dfb6e
+    projectPath: Library\Artifacts\85\8521a2809586874c48cf4d191e0dfb6e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\85\85ebf89f7a38cffeb81b8ffabcbc7ee2
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\85\85ebf89f7a38cffeb81b8ffabcbc7ee2
+    projectPath: Library\Artifacts\85\85ebf89f7a38cffeb81b8ffabcbc7ee2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\87\87a8c4efc8cda9184f2540b9ad3fa5a9
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\87\87a8c4efc8cda9184f2540b9ad3fa5a9
+    projectPath: Library\Artifacts\87\87a8c4efc8cda9184f2540b9ad3fa5a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\89\890a90266c9ee6544553f656008438ed
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\89\890a90266c9ee6544553f656008438ed
+    projectPath: Library\Artifacts\89\890a90266c9ee6544553f656008438ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\8a\8a5ead85a2af622304f1e002ddaff27e
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\8a\8a5ead85a2af622304f1e002ddaff27e
+    projectPath: Library\Artifacts\8a\8a5ead85a2af622304f1e002ddaff27e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\8b\8b8d8a96d05396ce0e73de696de465d3
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\8b\8b8d8a96d05396ce0e73de696de465d3
+    projectPath: Library\Artifacts\8b\8b8d8a96d05396ce0e73de696de465d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\8c\8c8ce4d4059c82577b8242188e1ed575
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\8c\8c8ce4d4059c82577b8242188e1ed575
+    projectPath: Library\Artifacts\8c\8c8ce4d4059c82577b8242188e1ed575
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\8c\8c9d858b548ffe32a88b69d845253f98
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\8c\8c9d858b548ffe32a88b69d845253f98
+    projectPath: Library\Artifacts\8c\8c9d858b548ffe32a88b69d845253f98
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\8e\8e0081a5ce35371972dc66c7458361df
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\8e\8e0081a5ce35371972dc66c7458361df
+    projectPath: Library\Artifacts\8e\8e0081a5ce35371972dc66c7458361df
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\8e\8e019dda428ab521061ffc518171063e
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\8e\8e019dda428ab521061ffc518171063e
+    projectPath: Library\Artifacts\8e\8e019dda428ab521061ffc518171063e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\8e\8e7c47fa0cef51347a67bc0af40df276
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\8e\8e7c47fa0cef51347a67bc0af40df276
+    projectPath: Library\Artifacts\8e\8e7c47fa0cef51347a67bc0af40df276
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\8e\8eee6ffdcd0637c30b21f99c66547389
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\8e\8eee6ffdcd0637c30b21f99c66547389
+    projectPath: Library\Artifacts\8e\8eee6ffdcd0637c30b21f99c66547389
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\8f\8fb878016274ce5ef779274d2ebb63fd
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\8f\8fb878016274ce5ef779274d2ebb63fd
+    projectPath: Library\Artifacts\8f\8fb878016274ce5ef779274d2ebb63fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\90\9058f9f30f3fd553597b569c6a9f262c
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\90\9058f9f30f3fd553597b569c6a9f262c
+    projectPath: Library\Artifacts\90\9058f9f30f3fd553597b569c6a9f262c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\90\90e3b6c570da72d15f30d5de7b1c449a
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\90\90e3b6c570da72d15f30d5de7b1c449a
+    projectPath: Library\Artifacts\90\90e3b6c570da72d15f30d5de7b1c449a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\92\928d3709dbc318684a337f50d2eb382e
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\92\928d3709dbc318684a337f50d2eb382e
+    projectPath: Library\Artifacts\92\928d3709dbc318684a337f50d2eb382e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\93\93da07b53c611bfc9d275141489fbd35
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\93\93da07b53c611bfc9d275141489fbd35
+    projectPath: Library\Artifacts\93\93da07b53c611bfc9d275141489fbd35
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\95\9505add2da846479c1336557e08c8870
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\95\9505add2da846479c1336557e08c8870
+    projectPath: Library\Artifacts\95\9505add2da846479c1336557e08c8870
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Hololens2Carcassonne\Library\Artifacts\95\95d8f42d78e0865c1a821516b7663abd
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\95\95d8f42d78e0865c1a821516b7663abd
+    projectPath: Library\Artifacts\95\95d8f42d78e0865c1a821516b7663abd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\95\95f2fa5a066b8d703f320ce800c3b351
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\95\95f2fa5a066b8d703f320ce800c3b351
+    projectPath: Library\Artifacts\95\95f2fa5a066b8d703f320ce800c3b351
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\97\97600f5393890f709cbb6b6544a2468d
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\97\97600f5393890f709cbb6b6544a2468d
+    projectPath: Library\Artifacts\97\97600f5393890f709cbb6b6544a2468d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\97\979af9419f3c87e78b80bc6c595f1cfc
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\97\979af9419f3c87e78b80bc6c595f1cfc
+    projectPath: Library\Artifacts\97\979af9419f3c87e78b80bc6c595f1cfc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\97\97c4c071ddee9928ccff021012581951
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\97\97c4c071ddee9928ccff021012581951
+    projectPath: Library\Artifacts\97\97c4c071ddee9928ccff021012581951
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\99\99315d285b51feed532ab201e5c91a73
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\99\99315d285b51feed532ab201e5c91a73
+    projectPath: Library\Artifacts\99\99315d285b51feed532ab201e5c91a73
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\99\99641c393b3ddd5dca87696f1d3b771a
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\99\99641c393b3ddd5dca87696f1d3b771a
+    projectPath: Library\Artifacts\99\99641c393b3ddd5dca87696f1d3b771a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\99\99b55145a2bde59d47404f3f7ac0d259
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\99\99b55145a2bde59d47404f3f7ac0d259
+    projectPath: Library\Artifacts\99\99b55145a2bde59d47404f3f7ac0d259
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\99\99cbe32b23cd607e4d499cc917573d6e
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\99\99cbe32b23cd607e4d499cc917573d6e
+    projectPath: Library\Artifacts\99\99cbe32b23cd607e4d499cc917573d6e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\9a\9a2681671cd0c0963ebf6991bd39524c
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\9a\9a2681671cd0c0963ebf6991bd39524c
+    projectPath: Library\Artifacts\9a\9a2681671cd0c0963ebf6991bd39524c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\9a\9a828ad12b214b9f51503999f2b1b59e
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\9a\9a828ad12b214b9f51503999f2b1b59e
+    projectPath: Library\Artifacts\9a\9a828ad12b214b9f51503999f2b1b59e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\9b\9b13545f5035f2c30fc4e9a39821d766
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\9b\9b13545f5035f2c30fc4e9a39821d766
+    projectPath: Library\Artifacts\9b\9b13545f5035f2c30fc4e9a39821d766
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\9c\9c91994f7d8bf2745d6922ff3f5182f8
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\9c\9c91994f7d8bf2745d6922ff3f5182f8
+    projectPath: Library\Artifacts\9c\9c91994f7d8bf2745d6922ff3f5182f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\9e\9e478584b45d4905a37bfde885d4c6dd
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\9e\9e478584b45d4905a37bfde885d4c6dd
+    projectPath: Library\Artifacts\9e\9e478584b45d4905a37bfde885d4c6dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\9e\9e58d06bcebcd9a36f6591f29b106536
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\9e\9e58d06bcebcd9a36f6591f29b106536
+    projectPath: Library\Artifacts\9e\9e58d06bcebcd9a36f6591f29b106536
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\a0\a07852eac50d15ef6c8a4be4375aba8f
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\a0\a07852eac50d15ef6c8a4be4375aba8f
+    projectPath: Library\Artifacts\a0\a07852eac50d15ef6c8a4be4375aba8f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\a0\a0ba59986d56854cbaca5eb43b42d85e
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\a0\a0ba59986d56854cbaca5eb43b42d85e
+    projectPath: Library\Artifacts\a0\a0ba59986d56854cbaca5eb43b42d85e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\a0\a0c9f5629d9d101626cc40683475db8e
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\a0\a0c9f5629d9d101626cc40683475db8e
+    projectPath: Library\Artifacts\a0\a0c9f5629d9d101626cc40683475db8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\a3\a3d55e746d8f49659eb6b712d4bea0d5
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\a3\a3d55e746d8f49659eb6b712d4bea0d5
+    projectPath: Library\Artifacts\a3\a3d55e746d8f49659eb6b712d4bea0d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\a6\a6bcfb6faf707fdb1f6dd598a21d7f57
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\a6\a6bcfb6faf707fdb1f6dd598a21d7f57
+    projectPath: Library\Artifacts\a6\a6bcfb6faf707fdb1f6dd598a21d7f57
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\a7\a7c8385e15204888349544455181f899
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\a7\a7c8385e15204888349544455181f899
+    projectPath: Library\Artifacts\a7\a7c8385e15204888349544455181f899
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\a9\a9e96a2b975b72179cdaf00b31672298
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\a9\a9e96a2b975b72179cdaf00b31672298
+    projectPath: Library\Artifacts\a9\a9e96a2b975b72179cdaf00b31672298
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\a9\a9fdf1b3c11fb03db5982835aa9ab633
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\a9\a9fdf1b3c11fb03db5982835aa9ab633
+    projectPath: Library\Artifacts\a9\a9fdf1b3c11fb03db5982835aa9ab633
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\aa\aaa740ca635bba772491a2ce8bd77e0f
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\aa\aaa740ca635bba772491a2ce8bd77e0f
+    projectPath: Library\Artifacts\aa\aaa740ca635bba772491a2ce8bd77e0f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\ab\ab66457f241766a6614dc04fb4f0631b
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\ab\ab66457f241766a6614dc04fb4f0631b
+    projectPath: Library\Artifacts\ab\ab66457f241766a6614dc04fb4f0631b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\ab\ab7de9d7d766c183de35f7f892386e8b
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\ab\ab7de9d7d766c183de35f7f892386e8b
+    projectPath: Library\Artifacts\ab\ab7de9d7d766c183de35f7f892386e8b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\ad\ad2ab855244ba1e60dd14ba06dc70538
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\ad\ad2ab855244ba1e60dd14ba06dc70538
+    projectPath: Library\Artifacts\ad\ad2ab855244ba1e60dd14ba06dc70538
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\ad\ad2d88bb2eee36245fe5bbb0c1a48f80
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\ad\ad2d88bb2eee36245fe5bbb0c1a48f80
+    projectPath: Library\Artifacts\ad\ad2d88bb2eee36245fe5bbb0c1a48f80
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\b0\b097f77ec00e2b9e4e442543c99fe790
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\b0\b097f77ec00e2b9e4e442543c99fe790
+    projectPath: Library\Artifacts\b0\b097f77ec00e2b9e4e442543c99fe790
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\b2\b2044e2f879a210ce53ed981f630e762
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\b2\b2044e2f879a210ce53ed981f630e762
+    projectPath: Library\Artifacts\b2\b2044e2f879a210ce53ed981f630e762
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\b2\b2ca309f0bba7de0c87c985742c34657
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\b2\b2ca309f0bba7de0c87c985742c34657
+    projectPath: Library\Artifacts\b2\b2ca309f0bba7de0c87c985742c34657
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\b3\b35a1f82ff5076814297704a7f13f2d5
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\b3\b35a1f82ff5076814297704a7f13f2d5
+    projectPath: Library\Artifacts\b3\b35a1f82ff5076814297704a7f13f2d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\b3\b3dcedf92b8148418826bffdb72c1b89
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\b3\b3dcedf92b8148418826bffdb72c1b89
+    projectPath: Library\Artifacts\b3\b3dcedf92b8148418826bffdb72c1b89
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\b5\b51fa009c5f51337a5514e16a6040aaa
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\b5\b51fa009c5f51337a5514e16a6040aaa
+    projectPath: Library\Artifacts\b5\b51fa009c5f51337a5514e16a6040aaa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\b6\b64fdd1a19b484a7ce8a40f1270ddac3
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\b6\b64fdd1a19b484a7ce8a40f1270ddac3
+    projectPath: Library\Artifacts\b6\b64fdd1a19b484a7ce8a40f1270ddac3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\b6\b6aae9b0f92bcff83e9ee98a62443a8f
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\b6\b6aae9b0f92bcff83e9ee98a62443a8f
+    projectPath: Library\Artifacts\b6\b6aae9b0f92bcff83e9ee98a62443a8f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\b7\b7c060c4b58ed65ef87aba45c64f09e5
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\b7\b7c060c4b58ed65ef87aba45c64f09e5
+    projectPath: Library\Artifacts\b7\b7c060c4b58ed65ef87aba45c64f09e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\b7\b7e0e4149b33969e88f9ad84dcf0d70c
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\b7\b7e0e4149b33969e88f9ad84dcf0d70c
+    projectPath: Library\Artifacts\b7\b7e0e4149b33969e88f9ad84dcf0d70c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\ba\ba339a5e4674d14ded96e4b362e1f8b4
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\ba\ba339a5e4674d14ded96e4b362e1f8b4
+    projectPath: Library\Artifacts\ba\ba339a5e4674d14ded96e4b362e1f8b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\bc\bc5f7fa87591912c1f6d03767fb7a8f9
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\bc\bc5f7fa87591912c1f6d03767fb7a8f9
+    projectPath: Library\Artifacts\bc\bc5f7fa87591912c1f6d03767fb7a8f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\c0\c0c39ca94a69a21019a6421d9eb6689b
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\c0\c0c39ca94a69a21019a6421d9eb6689b
+    projectPath: Library\Artifacts\c0\c0c39ca94a69a21019a6421d9eb6689b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\c1\c1b0c5a45cc4903fab430983078e24fd
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\c1\c1b0c5a45cc4903fab430983078e24fd
+    projectPath: Library\Artifacts\c1\c1b0c5a45cc4903fab430983078e24fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\c2\c291beba1a07886b05a3c4cea546a47b
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\c2\c291beba1a07886b05a3c4cea546a47b
+    projectPath: Library\Artifacts\c2\c291beba1a07886b05a3c4cea546a47b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\c3\c3b4a8251153b8336134eff7f7222d77
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\c3\c3b4a8251153b8336134eff7f7222d77
+    projectPath: Library\Artifacts\c3\c3b4a8251153b8336134eff7f7222d77
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\c4\c45538f2a6d2cafe7509e6356dc27fb4
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\c4\c45538f2a6d2cafe7509e6356dc27fb4
+    projectPath: Library\Artifacts\c4\c45538f2a6d2cafe7509e6356dc27fb4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\c5\c5123ba1aff9e6c51d68700f5474ff69
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\c5\c5123ba1aff9e6c51d68700f5474ff69
+    projectPath: Library\Artifacts\c5\c5123ba1aff9e6c51d68700f5474ff69
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\c7\c703fff8b5f01977f5c389cf5961ee5f
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\c7\c703fff8b5f01977f5c389cf5961ee5f
+    projectPath: Library\Artifacts\c7\c703fff8b5f01977f5c389cf5961ee5f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\c7\c78f0466dcc9f03aa1762391429e0da0
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\c7\c78f0466dcc9f03aa1762391429e0da0
+    projectPath: Library\Artifacts\c7\c78f0466dcc9f03aa1762391429e0da0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\c8\c8055133099c1cb671ebb32a424bab5c
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\c8\c8055133099c1cb671ebb32a424bab5c
+    projectPath: Library\Artifacts\c8\c8055133099c1cb671ebb32a424bab5c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\c8\c873e7daaef114bcd4ba71ffbafd08c9
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\c8\c873e7daaef114bcd4ba71ffbafd08c9
+    projectPath: Library\Artifacts\c8\c873e7daaef114bcd4ba71ffbafd08c9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\c9\c9558f98ca0a9ff85c758d66e6584004
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\c9\c9558f98ca0a9ff85c758d66e6584004
+    projectPath: Library\Artifacts\c9\c9558f98ca0a9ff85c758d66e6584004
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\c9\c9e28ed8ffe38c69cf5b0cf4a2d949a2
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\c9\c9e28ed8ffe38c69cf5b0cf4a2d949a2
+    projectPath: Library\Artifacts\c9\c9e28ed8ffe38c69cf5b0cf4a2d949a2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\ca\ca2412982a9ef2c292ab38f6773bbabb
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\ca\ca2412982a9ef2c292ab38f6773bbabb
+    projectPath: Library\Artifacts\ca\ca2412982a9ef2c292ab38f6773bbabb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\ca\ca4258d9cc012b3bacdb2384dfcc1f10
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\ca\ca4258d9cc012b3bacdb2384dfcc1f10
+    projectPath: Library\Artifacts\ca\ca4258d9cc012b3bacdb2384dfcc1f10
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\cc\ccf544fcc92ea99a417cc92409b6f553
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\cc\ccf544fcc92ea99a417cc92409b6f553
+    projectPath: Library\Artifacts\cc\ccf544fcc92ea99a417cc92409b6f553
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\ce\ceda3be1b77412d45c8e7ce7e59e8a0b
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\ce\ceda3be1b77412d45c8e7ce7e59e8a0b
+    projectPath: Library\Artifacts\ce\ceda3be1b77412d45c8e7ce7e59e8a0b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\cf\cfea238bb1a772d6dace4c52333ab6bc
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\cf\cfea238bb1a772d6dace4c52333ab6bc
+    projectPath: Library\Artifacts\cf\cfea238bb1a772d6dace4c52333ab6bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\d0\d040698b66fd05e660b8753ba49a7668
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\d0\d040698b66fd05e660b8753ba49a7668
+    projectPath: Library\Artifacts\d0\d040698b66fd05e660b8753ba49a7668
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\d6\d68b043b3f425dbd489d8b52615ab386
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\d6\d68b043b3f425dbd489d8b52615ab386
+    projectPath: Library\Artifacts\d6\d68b043b3f425dbd489d8b52615ab386
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\d8\d8afff71a89d7192bb19f5ac6e765c6d
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\d8\d8afff71a89d7192bb19f5ac6e765c6d
+    projectPath: Library\Artifacts\d8\d8afff71a89d7192bb19f5ac6e765c6d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\d8\d8f27e53a09e6b50c4f026b3793dff8f
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\d8\d8f27e53a09e6b50c4f026b3793dff8f
+    projectPath: Library\Artifacts\d8\d8f27e53a09e6b50c4f026b3793dff8f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\d9\d99562d3426ee588e3716906f509cc87
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\d9\d99562d3426ee588e3716906f509cc87
+    projectPath: Library\Artifacts\d9\d99562d3426ee588e3716906f509cc87
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\da\da0ed8580d7251e04604c24d773e679d
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\da\da0ed8580d7251e04604c24d773e679d
+    projectPath: Library\Artifacts\da\da0ed8580d7251e04604c24d773e679d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\da\da107f64793fb61238337df4cfa09b33
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\da\da107f64793fb61238337df4cfa09b33
+    projectPath: Library\Artifacts\da\da107f64793fb61238337df4cfa09b33
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\df\dfb5c85b582e445260e3543b71f1edae
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\df\dfb5c85b582e445260e3543b71f1edae
+    projectPath: Library\Artifacts\df\dfb5c85b582e445260e3543b71f1edae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\e0\e0b74092da69e0866d5cf2471beafb37
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\e0\e0b74092da69e0866d5cf2471beafb37
+    projectPath: Library\Artifacts\e0\e0b74092da69e0866d5cf2471beafb37
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\e6\e6d0b48298a0cfc77ae31127329374d0
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\e6\e6d0b48298a0cfc77ae31127329374d0
+    projectPath: Library\Artifacts\e6\e6d0b48298a0cfc77ae31127329374d0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\e9\e936b7e7d9015cefcd25dda70474c0dc
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\e9\e936b7e7d9015cefcd25dda70474c0dc
+    projectPath: Library\Artifacts\e9\e936b7e7d9015cefcd25dda70474c0dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\e9\e995a55d29b6864e84d7a5fcee1ae00a
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\e9\e995a55d29b6864e84d7a5fcee1ae00a
+    projectPath: Library\Artifacts\e9\e995a55d29b6864e84d7a5fcee1ae00a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\e9\e996819adba8e403c6be4777c7e887e0
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\e9\e996819adba8e403c6be4777c7e887e0
+    projectPath: Library\Artifacts\e9\e996819adba8e403c6be4777c7e887e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\ea\eae78d343becc6682e6b26153115b497
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\ea\eae78d343becc6682e6b26153115b497
+    projectPath: Library\Artifacts\ea\eae78d343becc6682e6b26153115b497
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\ec\ec74452e5a9af5597292bccf30c285a3
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\ec\ec74452e5a9af5597292bccf30c285a3
+    projectPath: Library\Artifacts\ec\ec74452e5a9af5597292bccf30c285a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\ed\ed55e61b1392611721940e03f8d1f43a
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\ed\ed55e61b1392611721940e03f8d1f43a
+    projectPath: Library\Artifacts\ed\ed55e61b1392611721940e03f8d1f43a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\ed\ed832f079b51f77022b66dbdcf469de0
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\ed\ed832f079b51f77022b66dbdcf469de0
+    projectPath: Library\Artifacts\ed\ed832f079b51f77022b66dbdcf469de0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\ed\eded398349e23089a25db384ba4b4e9b
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\ed\eded398349e23089a25db384ba4b4e9b
+    projectPath: Library\Artifacts\ed\eded398349e23089a25db384ba4b4e9b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\ee\ee977e23738256e25955b026efb2a2ca
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\ee\ee977e23738256e25955b026efb2a2ca
+    projectPath: Library\Artifacts\ee\ee977e23738256e25955b026efb2a2ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\f0\f075543cb52c8c8a4bea81b75a69a25f
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\f0\f075543cb52c8c8a4bea81b75a69a25f
+    projectPath: Library\Artifacts\f0\f075543cb52c8c8a4bea81b75a69a25f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\f2\f2e8928d5231a41ae7f8141ca175b370
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\f2\f2e8928d5231a41ae7f8141ca175b370
+    projectPath: Library\Artifacts\f2\f2e8928d5231a41ae7f8141ca175b370
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\f5\f56b298921975216776ca99e29054004
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\f5\f56b298921975216776ca99e29054004
+    projectPath: Library\Artifacts\f5\f56b298921975216776ca99e29054004
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\f5\f5821e5ea5be757c8a534f26e92bf838
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\f5\f5821e5ea5be757c8a534f26e92bf838
+    projectPath: Library\Artifacts\f5\f5821e5ea5be757c8a534f26e92bf838
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\f6\f60646b9ff2942ec61e47348edfebeac
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\f6\f60646b9ff2942ec61e47348edfebeac
+    projectPath: Library\Artifacts\f6\f60646b9ff2942ec61e47348edfebeac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\f7\f741ecdd7c6a4f27f1db1cd1018fe2f5
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\f7\f741ecdd7c6a4f27f1db1cd1018fe2f5
+    projectPath: Library\Artifacts\f7\f741ecdd7c6a4f27f1db1cd1018fe2f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\f7\f74d31a73a355732e9336b78eb2b5ee0
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\f7\f74d31a73a355732e9336b78eb2b5ee0
+    projectPath: Library\Artifacts\f7\f74d31a73a355732e9336b78eb2b5ee0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\f9\f95aa501ded51b0aac6274867c2f538a
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\f9\f95aa501ded51b0aac6274867c2f538a
+    projectPath: Library\Artifacts\f9\f95aa501ded51b0aac6274867c2f538a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\fb\fbe38a2d20d7cfcc5ddec468d36de0ae
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\fb\fbe38a2d20d7cfcc5ddec468d36de0ae
+    projectPath: Library\Artifacts\fb\fbe38a2d20d7cfcc5ddec468d36de0ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\Artifacts\fc\fc84fe4f069ad5e69f027fcf0545b780
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\Artifacts\fc\fc84fe4f069ad5e69f027fcf0545b780
+    projectPath: Library\Artifacts\fc\fc84fe4f069ad5e69f027fcf0545b780
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\CurrentLayout-default.dwlt
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\CurrentMaximizeLayout.dwlt
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\expandedItems
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\InspectorExpandedItems.asset
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\SceneVisibilityState.asset
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Async.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Async.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Async.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Editor.BuildAndDeploy.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Editor.BuildAndDeploy.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Editor.BuildAndDeploy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Editor.ClassExtensions.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Editor.ClassExtensions.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Editor.ClassExtensions.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Editor.Inspectors.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Editor.Inspectors.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Editor.Inspectors.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Editor.ServiceInspectors.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Editor.ServiceInspectors.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Editor.ServiceInspectors.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Editor.Utilities.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Editor.Utilities.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Editor.Utilities.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Gltf.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Gltf.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Gltf.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Gltf.Importers.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Gltf.Importers.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Gltf.Importers.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.LeapMotion.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.LeapMotion.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.LeapMotion.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.LeapMotion.Editor.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.LeapMotion.Editor.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.LeapMotion.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.ObjectMeshObserver.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.ObjectMeshObserver.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.ObjectMeshObserver.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.OpenVR.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.OpenVR.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.OpenVR.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.UnityAR.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.UnityAR.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.UnityAR.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.UnityAR.Editor.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.UnityAR.Editor.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.UnityAR.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Editor.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Editor.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Shared.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Shared.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Shared.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.WindowsVoiceInput.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.WindowsVoiceInput.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.WindowsVoiceInput.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.XRSDK.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.XRSDK.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.XRSDK.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.XRSDK.Oculus.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.XRSDK.Oculus.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.XRSDK.Oculus.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.XRSDK.Oculus.Handtracking.Editor.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.XRSDK.Oculus.Handtracking.Editor.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.XRSDK.Oculus.Handtracking.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.XRSDK.WindowsMixedReality.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.XRSDK.WindowsMixedReality.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Providers.XRSDK.WindowsMixedReality.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.SDK.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.SDK.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.SDK.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.SDK.Editor.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.SDK.Editor.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.SDK.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.SDK.Experimental.Editor.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.SDK.Experimental.Editor.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.SDK.Experimental.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.BoundarySystem.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.BoundarySystem.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.BoundarySystem.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.CameraSystem.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.CameraSystem.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.CameraSystem.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.InputAnimation.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.InputAnimation.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.InputAnimation.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.InputSimulation.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.InputSimulation.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.InputSimulation.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.InputSimulation.Editor.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.InputSimulation.Editor.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.InputSimulation.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.InputSystem.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.InputSystem.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.InputSystem.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.InputSystem.Editor.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.InputSystem.Editor.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.InputSystem.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.SceneSystem.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.SceneSystem.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.SceneSystem.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.TeleportSystem.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.TeleportSystem.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.Services.TeleportSystem.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.StandardAssets.Editor.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.StandardAssets.Editor.dll
+    projectPath: Library\ScriptAssemblies\Microsoft.MixedReality.Toolkit.StandardAssets.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ScriptMapper
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ScriptMapper
+    projectPath: Library\ScriptMapper
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ShaderCache.db
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ShaderCache.db
+    projectPath: Library\ShaderCache.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\ShaderCache\9\97563d5abc8efd1fc95027935c4a61e1.bin
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ShaderCache\9\97563d5abc8efd1fc95027935c4a61e1.bin
+    projectPath: Library\ShaderCache\9\97563d5abc8efd1fc95027935c4a61e1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\ShaderCache\e\e58471ec5a861ef97bdd306296059174.bin
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ShaderCache\e\e58471ec5a861ef97bdd306296059174.bin
+    projectPath: Library\ShaderCache\e\e58471ec5a861ef97bdd306296059174.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\SourceAssetDB
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\StateCache\Hierarchy\9de4df-07b37071518c9db488.json
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\StateCache\Hierarchy\9de4df-07b37071518c9db488.json
+    projectPath: Library\StateCache\Hierarchy\9de4df-07b37071518c9db488.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\StateCache\Hierarchy\9de4df-2336b72f96c1a3d46b.json
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\StateCache\Hierarchy\9de4df-2336b72f96c1a3d46b.json
+    projectPath: Library\StateCache\Hierarchy\9de4df-2336b72f96c1a3d46b.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\StateCache\Hierarchy\9de4df-6f7c1a9c0819a86439.json
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\StateCache\Hierarchy\9de4df-6f7c1a9c0819a86439.json
+    projectPath: Library\StateCache\Hierarchy\9de4df-6f7c1a9c0819a86439.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\StateCache\Hierarchy\9de4df-7cc09d90450cf8244a.json
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\StateCache\Hierarchy\9de4df-7cc09d90450cf8244a.json
+    projectPath: Library\StateCache\Hierarchy\9de4df-7cc09d90450cf8244a.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\StateCache\Hierarchy\9de4df-901a1642bcf3c66478.json
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\StateCache\Hierarchy\9de4df-901a1642bcf3c66478.json
+    projectPath: Library\StateCache\Hierarchy\9de4df-901a1642bcf3c66478.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\StateCache\Hierarchy\9de4df-mainStage.json
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\StateCache\Hierarchy\9de4df-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\9de4df-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\Library\StateCache\SceneView\5485a1-07b37071518c9db488.json
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\StateCache\SceneView\5485a1-07b37071518c9db488.json
+    projectPath: Library\StateCache\SceneView\5485a1-07b37071518c9db488.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\StateCache\SceneView\5485a1-2336b72f96c1a3d46b.json
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\StateCache\SceneView\5485a1-2336b72f96c1a3d46b.json
+    projectPath: Library\StateCache\SceneView\5485a1-2336b72f96c1a3d46b.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\StateCache\SceneView\5485a1-6f7c1a9c0819a86439.json
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\StateCache\SceneView\5485a1-6f7c1a9c0819a86439.json
+    projectPath: Library\StateCache\SceneView\5485a1-6f7c1a9c0819a86439.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\StateCache\SceneView\5485a1-7cc09d90450cf8244a.json
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\StateCache\SceneView\5485a1-7cc09d90450cf8244a.json
+    projectPath: Library\StateCache\SceneView\5485a1-7cc09d90450cf8244a.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\StateCache\SceneView\5485a1-901a1642bcf3c66478.json
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\StateCache\SceneView\5485a1-901a1642bcf3c66478.json
+    projectPath: Library\StateCache\SceneView\5485a1-901a1642bcf3c66478.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Library\StateCache\SceneView\5485a1-mainStage.json
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Library\StateCache\SceneView\5485a1-mainStage.json
+    projectPath: Library\StateCache\SceneView\5485a1-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Hololens2Carcassonne\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.csprojAssemblyReference.cache
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Microsoft.MixedReality.Toolkit.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Editor.BuildAndDeploy.csprojAssemblyReference.cache
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Editor.BuildAndDeploy.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Microsoft.MixedReality.Toolkit.Editor.BuildAndDeploy.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Editor.ClassExtensions.csprojAssemblyReference.cache
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Editor.ClassExtensions.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Microsoft.MixedReality.Toolkit.Editor.ClassExtensions.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Editor.Inspectors.csprojAssemblyReference.cache
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Editor.Inspectors.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Microsoft.MixedReality.Toolkit.Editor.Inspectors.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Editor.ServiceInspectors.csprojAssemblyReference.cache
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Editor.ServiceInspectors.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Microsoft.MixedReality.Toolkit.Editor.ServiceInspectors.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Editor.Utilities.csprojAssemblyReference.cache
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Editor.Utilities.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Microsoft.MixedReality.Toolkit.Editor.Utilities.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Gltf.csprojAssemblyReference.cache
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Gltf.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Microsoft.MixedReality.Toolkit.Gltf.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Gltf.Importers.csprojAssemblyReference.cache
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Gltf.Importers.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Microsoft.MixedReality.Toolkit.Gltf.Importers.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Providers.LeapMotion.csprojAssemblyReference.cache
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Providers.LeapMotion.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Microsoft.MixedReality.Toolkit.Providers.LeapMotion.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Providers.ObjectMeshObserver.csprojAssemblyReference.cache
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Providers.ObjectMeshObserver.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Microsoft.MixedReality.Toolkit.Providers.ObjectMeshObserver.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Providers.OpenVR.csprojAssemblyReference.cache
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Providers.OpenVR.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Microsoft.MixedReality.Toolkit.Providers.OpenVR.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Providers.UnityAR.csprojAssemblyReference.cache
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Providers.UnityAR.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Microsoft.MixedReality.Toolkit.Providers.UnityAR.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.SDK.csprojAssemblyReference.cache
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.SDK.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Microsoft.MixedReality.Toolkit.SDK.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.SDK.Editor.csprojAssemblyReference.cache
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.SDK.Editor.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Microsoft.MixedReality.Toolkit.SDK.Editor.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.SDK.Experimental.Editor.csprojAssemblyReference.cache
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.SDK.Experimental.Editor.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Microsoft.MixedReality.Toolkit.SDK.Experimental.Editor.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Services.InputSimulation.csprojAssemblyReference.cache
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Services.InputSimulation.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Microsoft.MixedReality.Toolkit.Services.InputSimulation.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.csprojAssemblyReference.cache
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.StandardAssets.Editor.csprojAssemblyReference.cache
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\obj\Debug\Microsoft.MixedReality.Toolkit.StandardAssets.Editor.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Microsoft.MixedReality.Toolkit.StandardAssets.Editor.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Hololens2Carcassonne\Temp\__Backupscenes\0.backup
+    fullPath: D:\HoloLens2\Hololens2Carcassonne\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
